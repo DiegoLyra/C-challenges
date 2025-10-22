@@ -1,0 +1,5 @@
+Pikachu Elétrico 25 33
+Charmander Fogo 18 31
+Squirtle Água 20 36
+Bulbasaur Planta 16 32
+Mew Psiquico 18 35
